@@ -1,4 +1,5 @@
 # ETL Operations and Data Pipelines
+__Extract, Transform, Load__ (__ETL__) is the general procedure of copying data from one or more sources into a destination system which represents the data differently from the source or in a different context than the source.
 # Modern Data Integration Complexieties
 * No System of record
 * Synchronization is hard
@@ -49,3 +50,4 @@ __LinkedIn__ uses __Kafka__ to prevent spam, collect user interactions to make b
 
 # References
 1. [Tutorial 1](https://www.youtube.com/watch?v=UEg40Te8pnE)
+2. [Definitive Guide to Kafka](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/?utm_source=Drift&utm_medium=Digital&utm_campaign=General)
