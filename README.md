@@ -51,3 +51,4 @@ __LinkedIn__ uses __Kafka__ to prevent spam, collect user interactions to make b
 # References
 1. [Tutorial 1](https://www.youtube.com/watch?v=UEg40Te8pnE)
 2. [Definitive Guide to Kafka](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/?utm_source=Drift&utm_medium=Digital&utm_campaign=General)
+3. [The Quick and Dirty Guide to Building Your Data Platform](https://towardsdatascience.com/the-quick-and-dirty-guide-to-building-your-data-platform-2f21dc4b7c94)
